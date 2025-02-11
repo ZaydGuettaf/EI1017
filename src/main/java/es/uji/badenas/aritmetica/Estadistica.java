@@ -1,3 +1,5 @@
+package es.uji.badenas.aritmetica;
+
 import java.util.*;
 
 public class Estadistica {
@@ -20,8 +22,6 @@ public class Estadistica {
         }
         return sumatorio / datos.size();
     }
-
-    public int
 
 
 
