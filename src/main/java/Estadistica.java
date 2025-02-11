@@ -21,6 +21,8 @@ public class Estadistica {
         return sumatorio / datos.size();
     }
 
+    public int
+
 
 
 }
