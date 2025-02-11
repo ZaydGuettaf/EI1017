@@ -24,7 +24,7 @@ public class Estadistica {
     }
 
     public int varianza(ArrayList<Integer> datos){
-        return 0;
+        return 1;
     }
 
 }
